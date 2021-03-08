@@ -1,4 +1,3 @@
-#include <iostream>
 /*
  * Goal: You are given a radius and hight of a pizza. Return the volume of pizza
  *
@@ -8,14 +7,19 @@
  *  volPizza(7, 2) ➞ 308
  *  volPizza(10, 2.5) ➞ 785
  *
+ *  How to find the volume of a cylinder: V= π * r^2 * h
  *
  */
 
-
-
+#include <iostream>
+#include "math.h"
 
 //TODO: pass input to volPizza
-//TODO: create function (volPizza)
+int volPizza(int radius, float height){
+
+
+}
+
 int main() {
     //TODO: take input for radius and height of pizza
     int radius{0};
