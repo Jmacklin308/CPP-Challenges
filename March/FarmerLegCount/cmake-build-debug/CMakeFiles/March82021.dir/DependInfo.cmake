@@ -4,7 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+<<<<<<< HEAD
   "C:/DEV/CPP Challenges/March/FarmerLegCount/main.cpp" "C:/DEV/CPP Challenges/March/FarmerLegCount/cmake-build-debug/CMakeFiles/March82021.dir/main.cpp.obj"
+=======
+  "C:/DEV/CPP Challenges/March82021/main.cpp" "C:/DEV/CPP Challenges/March82021/cmake-build-debug/CMakeFiles/March82021.dir/main.cpp.obj"
+>>>>>>> main
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

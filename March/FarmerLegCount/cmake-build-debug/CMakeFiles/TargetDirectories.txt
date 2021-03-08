@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 C:/DEV/CPP Challenges/March/FarmerLegCount/cmake-build-debug/CMakeFiles/March82021.dir
 C:/DEV/CPP Challenges/March/FarmerLegCount/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/DEV/CPP Challenges/March/FarmerLegCount/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+=======
+C:/DEV/CPP Challenges/March82021/cmake-build-debug/CMakeFiles/March82021.dir
+C:/DEV/CPP Challenges/March82021/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/DEV/CPP Challenges/March82021/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+>>>>>>> main
