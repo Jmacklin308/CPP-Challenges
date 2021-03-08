@@ -1,0 +1,3 @@
+C:/dev/Learn C++/CPP-Challenges/March/FlipBoolean/cmake-build-debug/CMakeFiles/FlipBoolean.dir
+C:/dev/Learn C++/CPP-Challenges/March/FlipBoolean/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/dev/Learn C++/CPP-Challenges/March/FlipBoolean/cmake-build-debug/CMakeFiles/rebuild_cache.dir
